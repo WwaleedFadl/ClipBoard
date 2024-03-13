@@ -38,3 +38,7 @@ body {
     background-size: contain;
   }
 }
+.ficon:hover {
+  filter: invert(53%) sepia(68%) saturate(424%) hue-rotate(121deg)
+    brightness(101%) contrast(94);
+}
